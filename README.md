@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pjhihying
 - 👀 I’m interested in the computer stuffs.
 - 🌱 I’m currently learning the communication engineering.
-- 😄 Pronouns: he/his
+
 
 <!---
 pjhihying/pjhihying is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
